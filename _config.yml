@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect  # ページのテーマ
+theme: jekyll-theme-cayman # ページのテーマ
 encding: utf-8
 plugins:
   - jekyll-github-metadata
