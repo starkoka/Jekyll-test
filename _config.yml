@@ -3,5 +3,6 @@ remote_theme           : "mmistakes/minimal-mistakes"
 encding: utf-8
 plugins:
   - jekyll-github-metadata
+  - jekyll-remote-theme
 github : [metadata]
 repository: starkoka/Jekyll-test
