@@ -1,4 +1,5 @@
-theme: jekyll-theme-architect  # ページのテーマ
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 encding: utf-8
 plugins:
   - jekyll-github-metadata
